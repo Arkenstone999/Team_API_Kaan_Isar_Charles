@@ -1,0 +1,14 @@
+- Average Life Expectancy increase over the years (2000-2015)
+(lineplot)
+
+- Rate of decrease for every available diseases in developing countries vs developed (line plot)
+
+- Cancer rates in countries around the world (choropleth)
+
+- Rate of decrease for every available cancer in developing countries vs developed countries
+
+- Cancer rates for individual countries (is liver cancer more prevalent with the hard drinking germans and is lung cancer more prevalent with the smoking Cubans with their cigars)
+
+- Is there a correlation between cancer death rates and cancer screening availability?
+
+IS THERE HEALTHCARE EQUALITY AROUND THE WORLD
